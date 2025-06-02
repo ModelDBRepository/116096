@@ -38,12 +38,12 @@ and 2Ad:
 
 ![screenshot](./screenshot.jpg)
 
+---
 These model files were supplied by Andrew Davison.
 
 20111102 cadspine.mod updated to use derivimplicit. See
 http://www.neuron.yale.edu/phpBB/viewtopic.php?f=28&t=592 for more.
+
 20120201 cad.mod was also updated to use derivimplicit see above link.
 
----
-
-2025-06-02: Converted README to Markdown.
+20250602 Converted README to Markdown.
